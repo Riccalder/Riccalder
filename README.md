@@ -2,7 +2,7 @@
 👩🏻‍💻  I'm a Computer Engineering student. <br/>
 👩🏻‍🎓 Studied [Computer Engineering] at the Technological Institutes of the Philippines, Philippines<br/>
 🎨 Watching videos about Computer Engineering, tech, and productivity on [YouTube]https://www.youtube.com/results?search_query=jonathan+taylar<br/>
-🌷 #Continous learning <br/>
+🌷 #My github pages https://riccalder.github.io/ <br/>
 💭 Currently learning about Software design!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
