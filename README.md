@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ric Ardo!
 👩🏻‍💻  I'm a Computer Engineering student. <br/>
 👩🏻‍🎓 I studied Computer Engineering at the Technological Institutes of the Philippines.<br/>
-🎨 I enjoy watching videos that enrich my understanding, particularly those related to my profession, health, as well as those that provide stress relief on [YouTube]<br/(https://www.youtube.com/@jonathantaylar1001)<br/>
+🎨 I enjoy watching videos that enrich my understanding, particularly those related to my profession, health, as well as those that provide stress relief on [YouTube](https://www.youtube.com/@jonathantaylar1001)<br/>
 🌷 You can find my github pages https://riccalder.github.io/ <br/>
 💭 I'm currently learning everything related to computers.!<br/>
 
@@ -25,3 +25,4 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
